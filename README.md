@@ -2,14 +2,6 @@
 
 # BrakTooth Proof of Concept
 
-<p align="center">
-<img src="./docs/braktooth_logo.png" alt="mode_master" width="650" height="auto" />
-</p>
-
-<p align="center">
-<img src="./docs/poc_setup.png" alt="mode_master" width="1000" height="auto" />
-</p>
-
 
 ## 1) Requirements
 
@@ -18,10 +10,6 @@
 * ##### **Maked for all debian based distros** 
 
 * ##### Hardware Board: **ESP-WROVER-KIT or esp32 and esp-prog**
-  
-<p align="left">
-<img src="./docs/esp32.jpg" width="200" height="auto" />
-</p>
 
 ## 2) Installation Instructions
 
