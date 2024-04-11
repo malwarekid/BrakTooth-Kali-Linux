@@ -286,7 +286,3 @@ The exploiter BT options are loaded from `configs/bt_config.json` on the followi
   - No MitM, General Bouding = 4
   - MitM, General Bouding = 5
 - **PIN** - 4 digit PIN number to be used during pairing (legacy pairing method).
-
-## Acknowledgement
-This research was partially supported by [NRF National Satellite of Excellence in Trustworthy Software Systems](https://www.comp.nus.edu.sg/~nsoe-tss/) (Project no. RGNSOE2001 and RGNSOE2101).
-
