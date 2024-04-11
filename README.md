@@ -209,7 +209,7 @@ For more details on how to create BT exploits, please read **`exploit_modules_tu
 
 
 
-![exploiter](./docs/exploiter.png)
+### exploiter
 
 
 
@@ -225,7 +225,7 @@ Capture files are automatically saved in folder `logs/Bluetooth/capture_bluetoot
 
 You should see the following if the capture file was generated correctly:
 
-![wireshark](./docs/wireshark.png)
+### wireshark
 
 
 
